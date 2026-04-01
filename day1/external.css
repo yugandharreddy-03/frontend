@@ -1,0 +1,12 @@
+section{
+    background-color: blueviolet;
+    height: 100px;
+    width: 100px;
+    border: 2px solid;
+}
+aside{
+    background-color: antiquewhite;
+    height: 100px;
+    width: 100px;
+    border: 2px solid;
+}
